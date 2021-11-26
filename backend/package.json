@@ -1,0 +1,16 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "demo of stream api backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "stream",
+    "streamapi",
+    "node"
+  ],
+  "author": "Elvan",
+  "license": "ISC"
+}
